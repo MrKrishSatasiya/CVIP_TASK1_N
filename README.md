@@ -3,9 +3,9 @@
   <br />
   <br />
   
-  <h2 align="center">CVIP - Interactive Data Visualization Dashboard website</h2>
+  <h2 align="center">CVIP - Real estate website</h2>
 
-  THIS is fully responsive Design <br />Responsive for all devices, UI UX GRAPHICS Design 
+  THIS is fully responsive Real estate website, <br />Responsive for all devices, UI UX GRAPHICS Design 
 
  </div>
 
